@@ -1,0 +1,4 @@
+/root/1106/uav_template/build/CMakeFiles/edit_cache.dir
+/root/1106/uav_template/build/CMakeFiles/main.dir
+/root/1106/uav_template/build/CMakeFiles/rebuild_cache.dir
+/root/1106/uav_template/build/CMakeFiles/template1.dir
